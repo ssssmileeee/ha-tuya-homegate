@@ -1,5 +1,5 @@
 {
-  "domain": "tuya-homegate",
+  "domain": "tuya_homegate",
   "name": "Tuya with HomeGate support",
   "codeowners": ["@ssssmileeee"],
   "config_flow": true,
