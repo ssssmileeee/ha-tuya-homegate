@@ -1,0 +1,7 @@
+{
+    "name": "tuya-homegate",
+    "render_readme": true,
+    "domains": ["button", "binary_sensor", "sensor", "switch"],
+    "homeassistant": "2023.8.0",
+    "iot_standards": ["tuya"]
+} 
